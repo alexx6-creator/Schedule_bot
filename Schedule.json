@@ -1,0 +1,37 @@
+{
+    "tuesday":{
+    "per3":["lab. 0.5 gr. PC","110","11:30 - 13:00"],
+    "per4":["Analiza Matematică / sem.Fizica","3-3 / 101","13:30 - 15:00"],
+    "per5":["Grafica Inginerească / Fizica","5-1","15:15 - 16:45"],
+    "per6":["Etica și Integritatea Academică","5-1","17:00 - 18:30"],
+    "per7":["Programarea Calculatoarelor","3-3","18:45 - 20:15"]
+},
+    "wednesday":{
+    "per3":["L.Română","402,624","11:30 - 13:00"],
+    "per4":["sem. PC","604","13:30 - 15:00"],
+    "per5":["Fizica","302 / 304","15:15 - 16:45"],
+    "per6":["L.Engleză","623 / 624","17:00 - 18:30"]
+
+},
+    "thursday":{
+    "per3":["ED-Fizică / -","-","11:30 - 13:00"],
+    "per4":["lab. 0.5 gr. PC","110","13:30 - 15:00"],
+    "per5":["sem.Fizica","604","15:15 - 16:45"],
+    "per6":["lab. GI","D-01 / D-03","17:00 - 18:30"]
+
+},
+    "friday":{
+    "per2":["lab.PSA/-","110/-","11:30 - 13:00"],
+    "per3":["lab.PSA/sem. PSA","110/224","13:30 - 15:00"],
+    "per4":["sem. AM","604","15:15 - 16:45"],
+    "per5":["sem. ALGA/sem. AM","604","17:00 - 18:30"]
+
+},
+    "saturday":{
+    "per1":["C. Fizica","3-3","8:00 - 9:30"],
+    "per2":["C. Probabilitatea și Statistica Aplicată","3-3","9:45 - 11:45"],
+    "per3":["C. Algebra Liniară și Geometria Analitică","3-3","11:30 - 13:00"],
+    "per4":["C. Analiza Matematică","3-3","13:30 - 15:00"]
+
+}
+}
